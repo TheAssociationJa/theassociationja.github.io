@@ -1,4 +1,4 @@
-////Author: God Bennett
+////Author: [God Bennett](https://g0dengineer.github.io/)
 
 ////Library: ThreeJs
 
