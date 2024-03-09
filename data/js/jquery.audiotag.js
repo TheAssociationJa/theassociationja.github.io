@@ -63,7 +63,7 @@ $(document).ready(function()
 
 function getRandomValueBasedOnArraySize ( value )
 {//0-len(value)-1
-	return Math.floor ( ( Math.random ( ) * ( value.length - 1 ) ) + 0 );
+	return Math.floor ( ( Math.random ( ) * ( value.length ) ) + 0 );
 }
 
 
