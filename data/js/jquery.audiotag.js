@@ -3,8 +3,8 @@
 
 var musicTitles = 
 					[ 
-						"zelante_mattia_strings",
-						"zelante_mattia_strings", 
+						"Requiem_Oleg_Semenov",
+						"Neoclassical_Oleg_Semenov", 
 						"zelante_mattia_strings"
 					];
 
